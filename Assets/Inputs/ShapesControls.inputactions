@@ -1,0 +1,39 @@
+{
+    "name": "ShapesControls",
+    "maps": [
+        {
+            "name": "Shapes",
+            "id": "97be8b17-c5ca-4f42-8e30-a45ed54c64e1",
+            "actions": [
+                {
+                    "name": "Place",
+                    "type": "Button",
+                    "id": "291ec2f3-ce09-41a6-867c-47bea6961cd1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "56574337-a8d2-4758-843c-d5253646ab29",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Place",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MainControlScheme",
+            "bindingGroup": "MainControlScheme",
+            "devices": []
+        }
+    ]
+}

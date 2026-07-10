@@ -1,0 +1,33 @@
+{
+    "name": "SlasherControls",
+    "maps": [
+        {
+            "name": "Slasher",
+            "id": "ab515d33-d41d-4a4f-a485-940bb8123d01",
+            "actions": [
+                {
+                    "name": "Action",
+                    "type": "Button",
+                    "id": "58dabf21-18e0-4c22-a16d-68b06fbdfc02",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "dc096db4-4242-4479-8ad4-d5250dd27a49",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
